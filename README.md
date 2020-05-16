@@ -12,7 +12,15 @@ LFS, so `git clone` from a terminal won't work correctly unless you have
 
 ## Where do I donate?
 
-**If you're 3D printing ear savers, then it would actually be helpful if you
+**I recommend donating to [Operation Face Shield](https://www.facebook.com/groups/1123320618008506/)**.
+They're among the largest volunteer organizations for making and distributing 3D
+printed PPE, they have several drop-off points (most in Ann Arbor, but also in
+neighboring cities), and they have a far-reaching distribution network (mostly
+in Michigan, but there's a pilot in the group who can make plane deliveries.
+Outside of Southeast Michigan, Operation Face Shield has sent shipments to the
+Upper Peninsula, Nebraska, and the Navajo Nation, among others.
+
+**If you're 3D printing ear savers, then it would also be helpful if you
 could send them to me.** I've set up an [ear saver request form](https://forms.gle/NtTunTbEoFRqz1C7A)
 for individuals and small groups, but I actually blew through my entire ear
 saver stockpile after the first night of the form being open.😅 Shoot me a  DM
@@ -22,14 +30,6 @@ plastic from which they were printed (PLA, PETG, ABS, etc.)!** This is normally
 done by writing something like "PETG" on the plastic with a metallic Sharpie,
 but you could also include a note that says "these are all PLA" or similar.
 
-Alternatively, and also if you're in Michigan, I recommend donating to
-[Operation Face Shield](https://www.facebook.com/groups/1123320618008506/).
-They're among the largest volunteer organizations for making and distributing 3D
-printed PPE, they have several drop-off points (most in Ann Arbor, but also in
-neighboring cities), and they have a far-reaching distribution network (mostly
-in Michigan, but there's a pilot in the group who can make plane deliveries.
-Outside of Southeast Michigan, Operation Face Shield has sent shipments to the
-Upper Peninsula, Nebraska, and the Navajo Nation, among others.
 
 ## What should I donate?
 
@@ -40,11 +40,10 @@ shields per day, which is orders of magnitude more than can be practically
 manufactured by 3D printing. For comparison, it takes roughly 22 hours for
 a single 3D printer to finish printing eight.
 
-**Instead, I'd recommend printing "ear savers",** because that's what I'm
-(personally) short on right now. Operation Face Shield also has a large
-stockpile of these (as of the time of writing, they've announced that
-we can pause our printing of ear savers), and I might actually ask them if I can
-pick up a few boxes.
+**Instead, I'd recommend printing "ear savers",** because that's what I
+and OFS are short on right now. (UPDATED 5/15/20) Operation Face Shield
+currently has a _long_ backlog of orders to fill, and would be thankful for any
+help you can provide!
 
 ## Files
 
