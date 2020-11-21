@@ -1,5 +1,7 @@
 # Flexspirator – Usage and Care
 
+<img src="https://media.githubusercontent.com/media/Yilin-Yang/covid-3d-printing-mi/master/images/flexspirator_no_callouts.png" width=50% />
+
 The "Flexspirator" is a Maker-made reusable respirator that _should_ provide
 N100 protection, **though it has not been formally tested and certified by
 NIOSH.** It passes a self-administered [OSHA 1910.134 App A "Irritant Smoke"
@@ -56,7 +58,7 @@ into cracks to stop COVID dead in its tracks.
 Flex Seal starts out as a thick liquid and turns into a super strong flexible
 rubber. Dipping 3D printed MMRs creates an airtight seal that lasts for years.
 This rubberized coating blocks ingress of contaminated air through [cracks and
-holes in the plastic mask body](https://www.preprints.org/manuscript/202006.0080/v1)
+holes in the plastic mask frame](https://www.preprints.org/manuscript/202006.0080/v1)
 produced as artifacts of the [FDM printing](https://en.wikipedia.org/wiki/Fused_filament_fabrication)
 process.
 
@@ -112,7 +114,43 @@ cartridge if it clogs.
 
 ### Parts and Components
 
-TODO
+![Flexspirator parts](https://media.githubusercontent.com/media/Yilin-Yang/covid-3d-printing-mi/master/images/flexspirator_parts.png)
+
+The **Top Strap** and **Bottom Strap** secure the Flexspirator against your
+face. They can be adjusted by pulling the ends of each strap through the
+Slide Buckle, the Loop Buckle, or the Hook Buckle.
+
+The **Hook Buckle** and the **Loop Buckle** on the Bottom Strap fasten
+together behind your neck when you don the Flexspirator. This mimics the design
+of a conventional reusable elastomeric respirator.
+
+The **Mask Body** is the larger Flexspirator facepiece. It is comprised of
+a stiff mask frame of PETG plastic coated on both its interior and exterior
+with a silicone rubber coating of Flex Seal Liquid.
+
+The **Edge Lining** is the edge of the Flexspirator facepiece where it
+contacts your face. It is comprised of [vinyl weather stripping](https://www.homedepot.com/p/M-D-Building-Products-1-2-in-x-17-ft-White-Vinyl-Gasket-Weatherstrip-78394/100193598)
+coated with Flex Seal Liquid; the weather stripping is soft and can conform to
+the wearer's face, while the silicone rubber Flex Seal coating _significantly_
+improves its seal against bare skin.
+
+The **Filter Slot** is the hole into which the Filter Tray is placed. The space
+between the Filter Tray and the Filter Slot (not labeled) is the
+**Cartridge/Slot Interface**; this must be filled with a **Cartridge/Slot
+Interface Sealant**, such as petroleum jelly applied to the outer edge of the
+Filter Tray, to prevent contaminated air from flowing around and bypassing the
+filter media.
+
+The **Filter Tray** houses the **Filter Media**, which actually filters air.
+The Filter Media is compressed flush against the walls of the Filter Tray by
+a plastic **Retaining Ring**. Without this Retaining Ring, the Filter Media may
+lift and curl away from the walls of the Filter Tray, creating air gaps, which
+may allow contaminated air to bypass the Filter Media.
+
+The **Locking Dimple** is a small divot in the front of the Mask Body. There is
+a small protrusion (not labeled) on the Filter Cover that seats into the
+Locking Dimple when the Filter Cover is screwed onto the Filter Tray, helping
+to lock the Filter Cover into place.
 
 ### Protection Offered
 
@@ -126,26 +164,27 @@ particles while properly worn.
 It should also protect the wearer from inhaling any sort of fine particulates,
 including smoke, sawdust, metal swarf (from grinding tools), and tear gas.
 
-This is worse than the protection offered by a respirator equipped with P100 or
-activated carbon filters. Oily aerosols may destroy the Flexspirator's HEPA
-filter, rendering it ineffective at filtration. The HEPA filter will also not
-absorb chemical fumes, such as from spraypaint or Flex Seal.
+This is not the same _type_ of protection as offered by a respirator equipped
+with (e.g.) P100 + activated carbon filters. Oily aerosols may destroy the
+Flexspirator's HEPA filter, rendering it ineffective at filtration. The HEPA
+filter will also not absorb chemical fumes, such as from spraypaint or Flex
+Seal.
 
-### Warnings
+### Maintenance
 
 Protect the Flexspirator from damage so that it can still maintain an
 airtight seal against the wearer's face when worn.
 
 The seal may be compromised by:
 
-1. _Physical damage to_ OR _manufacturing defects in_ the plastic mask body,
+1. _Physical damage to_ OR _manufacturing defects in_ the plastic mask frame,
 resulting in micro- or macro-scale cracks and holes.
 2. _Peeling_ or _perforation_ of the Flex Seal coating.
 3. _Pinhole leaks_ in the _filter cartridge/slot sealant_, which may allow air to
 bypass the HEPA filter media by passing between the filter tray and the filter
 slot.
 
-Even the plastic mask body should be largely airtight by
+Even the plastic mask frame should be largely airtight by
 itself. This creates protective redundancy: both (1) and (2) must occur at the
 same spot on the mask's surface for the walls of the mask to spring a leak.
 To check for such leaks, conduct an **Integrity Test** as described below.
@@ -154,7 +193,7 @@ To check for such leaks, conduct an **Integrity Test** as described below.
 
 The Flexspirator is reasonably durable and will comfortably survive _ordinary_
 rough handling, but extreme mishandling can snap, break, or deform the
-underlying plastic mask body. **Forms of mishandling that may break the plastic
+underlying plastic mask frame. **Forms of mishandling that may break the plastic
 mask body include:**
 
 - Stepping on a Flexspirator _with_ your body weight
@@ -200,15 +239,30 @@ for non-stick pans
 - Rubbing against the spiral metal ring binding of a loose-leaf notebook while
 in a book bag
 
-#### Avoiding Damage to the Filter Cartridge/Slot Sealant
+#### Maintaining the Filter Cartridge/Slot Sealant
 
-TODO
+Imprecision in the process of 3D printing would prevent a perfect airtight seal
+at the Cartridge/Slot Interface, i.e. between the plastic of the Filter Slot
+and the Filter Tray. Without that seal, contaminated air may flow _around_ the
+Filter Tray, bypassing the Filter Media entirely. We apply a Cartridge/Slot
+Interface Sealant to fill these air gaps. In principle, many materials could be
+used as Sealant, but we recommend common household petroleum jelly.
 
-### Seal Check
+Gaps in the petroleum jelly Sealant may permit contaminated air to bypass the
+Filter Media. This risk can be cheaply mitigated by applying _generous_ amounts
+of petroleum jelly as Sealant, increasing the volume of jelly that would need
+to be displaced to produce a leak.
 
-TODO
+<img width=50% src="https://media.githubusercontent.com/media/Yilin-Yang/covid-3d-printing-mi/master/images/placing_jelly.png" />
 
-### Integrity Check
+You can apply a coating of Cartridge/Slot Interface Sealant simply by smearing
+_generous_ quantities of petroleum jelly on the edges of a Filter Tray with
+a Q-tip. As you press the Filter Tray into the Filter Slot, petroleum jelly
+should squeeze out from the Cartridge/Slot Interface.
+
+<img width=50% src="https://media.githubusercontent.com/media/Yilin-Yang/covid-3d-printing-mi/master/images/assembly/2_depress_tray.png" />
+
+### Seal and Integrity Check
 
 TODO
 
