@@ -137,7 +137,7 @@ improves its seal against bare skin.
 The **Filter Slot** is the hole into which the Filter Tray is placed. The space
 between the Filter Tray and the Filter Slot (not labeled) is the
 **Cartridge/Slot Interface**; this must be filled with a **Cartridge/Slot
-Interface Sealant**, such as petroleum jelly applied to the outer edge of the
+Interface Sealant**, such as petroleum jelly applied to the lip of the
 Filter Tray, to prevent contaminated air from flowing around and bypassing the
 filter media.
 
@@ -146,6 +146,12 @@ The Filter Media is compressed flush against the walls of the Filter Tray by
 a plastic **Retaining Ring**. Without this Retaining Ring, the Filter Media may
 lift and curl away from the walls of the Filter Tray, creating air gaps, which
 may allow contaminated air to bypass the Filter Media.
+
+The **Filter Cover** is functionally a "nut" that screws onto the lip of the
+Filter Tray where it protrudes beyond the front of the Flexspirator. It does
+not help to filter air, but simply holds the Filter Tray snugly against the
+walls of the Filter Slot. We call a Filter Cover screwed onto a Filter Tray
+a **Filter Cartridge.**
 
 The **Locking Dimple** is a small divot in the front of the Mask Body. There is
 a small protrusion (not labeled) on the Filter Cover that seats into the
@@ -241,6 +247,9 @@ in a book bag
 
 #### Maintaining the Filter Cartridge/Slot Sealant
 
+This section explains the purpose of the petroleum jelly Sealant in the
+Flexspirator design, how to maintain it, and how to reapply it when necessary.
+
 Imprecision in the process of 3D printing would prevent a perfect airtight seal
 at the Cartridge/Slot Interface, i.e. between the plastic of the Filter Slot
 and the Filter Tray. Without that seal, contaminated air may flow _around_ the
@@ -256,16 +265,99 @@ to be displaced to produce a leak.
 <img width=50% src="https://media.githubusercontent.com/media/Yilin-Yang/covid-3d-printing-mi/master/images/placing_jelly.png" />
 
 You can apply a coating of Cartridge/Slot Interface Sealant simply by smearing
-_generous_ quantities of petroleum jelly on the edges of a Filter Tray with
+_generous_ quantities of petroleum jelly on the lip of a Filter Tray with
 a Q-tip. As you press the Filter Tray into the Filter Slot, petroleum jelly
 should squeeze out from the Cartridge/Slot Interface.
+
+TODO when to reapply
 
 <img width=50% src="https://media.githubusercontent.com/media/Yilin-Yang/covid-3d-printing-mi/master/images/assembly/2_depress_tray.png" />
 
 ### Seal and Integrity Check
 
+This section explains how to don a Flexspirator and then perform a seal check.
+It also explains how to perform an integrity check, which is extremely similar
+to a seal check.
+
+#### Performing a Seal Check or Integrity Check
+
+You should perform a **seal check** after donning a Flexspirator, to make sure
+that the Edge Lining has sealed properly against your face. To perform a seal
+check, don a Flexspirator already loaded with a Filter Cartridge, tightly cover
+the front of the Flexspirator ("smothering" the Filter Cover) with your hand,
+and try to inhale or exhale. Your hand will probably not completely block air
+movement through the Filter Cartridge, but it should _reduce_ it; you should
+notice the Flexspirator "suck in" against your face when inhaling, or "bulging
+out" against your hand when exhaling. If the Flexspirator does not "suck in" or
+"bulge out", then the seal check has failed.
+
+<details>
+<summary>
+⚠A SUCCESSFUL SEAL CHECK DOES NOT NECESSARILY MEAN THAT THE CARTRIDGE/SLOT
+INTERFACE HAS BEEN PROPERLY SEALED.⚠
+</summary>
+
+Performing a seal check can help you to detect _obvious_ problems with the seal
+of a Flexspirator. These might be large cracks and holes in the plastic mask
+frame and its Flex Seal coating that contaminated air can penetrate; or the
+Flexspirator may not [fit](https://www.osha.gov/video/respiratory_protection/fittesting_transcript.html)
+properly.
+
+But these flaws allow _large_ amounts of air to bypass the Filter
+Media, so that inhaling or exhaling does not cause the Flexspirator to "suck
+in" or "bulge out". A pinhole leak in the Cartridge/Slot Interface Sealant may
+not prevent the Flexspirator from "sucking in" or "bulging out" during a seal
+check.
+
+If the Flexspirator does not fit properly – meaning that, no matter how you
+adjust it, there are still air gaps between the Edge Lining and your face
+– then you may try to fill those gaps with Duct Seal as described below.
+</details>
+
+You can perform an **integrity check** by following the same procedure as
+a seal check, except that you should don the Flexspirator with the Filter
+Cartridge _removed,_ i.e. with the Filter Slot completely empty. This should
+allow you to fully plug the front of the Flexspirator with your hand, making it
+entirely airtight. If you try to inhale or exhale, you should feel _no_ air
+movement _whatsoever_ through the Flexspirator. If you feel air movement, than
+the integrity check has failed.
+
+The following are illustrations of the basic process of conducting a seal check
+or an integrity check.
+
+**1. Stretch the Top Strap over the crown of your head.**
+
+<img src="https://media.githubusercontent.com/media/Yilin-Yang/covid-3d-printing-mi/master/images/seal_check/1_top_strap.png" width=50% />
+
+**2. Adjust the Top Strap, securing the upper half of the Flexspirator against your face and nose.**
+
+<img src="https://media.githubusercontent.com/media/Yilin-Yang/covid-3d-printing-mi/master/images/seal_check/2_top_strap_adjust.png" width=50% />
+
+**3. Fasten the Hook Buckle and Loop Buckle behind your neck.**
+
+<img src="https://media.githubusercontent.com/media/Yilin-Yang/covid-3d-printing-mi/master/images/seal_check/3_bottom_strap_hook.png" width=50% />
+
+**4. Adjust the Lower Strap, securing the lower half of the Flexspirator against your cheeks and chin.**
+
+<img src="https://media.githubusercontent.com/media/Yilin-Yang/covid-3d-printing-mi/master/images/seal_check/4_bottom_strap_adjust.png" width=50% />
+
+**5. Press your hand into the front of the Flexspirator and inhale/exhale.**
+
+<img src="https://media.githubusercontent.com/media/Yilin-Yang/covid-3d-printing-mi/master/images/seal_check/5_seal_check.png" width=50% />
+
+#### Implications of Failing a Seal Check or Integrity Check
+
 TODO
 
+## Potential Modifications by the User
+
+TODO duct seal
+
+### Repairing Large Cracks and Holes
+
+### Fixing Poor Respirator Fit with Duct Seal
+
+TODO
 
 ## Design Alterations
 
