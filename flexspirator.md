@@ -195,6 +195,53 @@ itself. This creates protective redundancy: both (1) and (2) must occur at the
 same spot on the mask's surface for the walls of the mask to spring a leak.
 To check for such leaks, conduct an **Integrity Test** as described below.
 
+Of course, tears, punctures, or other forms of damage to the Filter Media can
+make it ineffective at filtration. Actual holes would allow contaminants to
+bypass the filter, for instance, or destroy the mesh of fine fibers in the
+Filter Media that would actually trap contaminants. Take care to avoid damage
+to the Filter Media when cleaning, disinfecting, or wearing the Flexspirator.
+
+#### Avoiding Damage to the Filter Media
+
+_When researching how to work with HEPA filter media, I used [this link](https://smartairfilters.com/en/blog/hepa-filters-make-diy-face-masks-covid-coronavirus/)
+as an informational reference._
+
+The Filter Media is cut from an ordinary replacement [HEPA
+filter](https://www.amazon.com/gp/product/B00BWYNZV4/) for a household air
+purifier. It consists of a stiff, "papery" structural layer of PET fibers that
+supports a thin, extremely delicate "tissue" of polypropylene (PP) fibers. The PP
+fibers are the "actual" filter media that would trap contaminants like
+coronavirus particles. The PET backing provides some filtration, but this is
+probably incidental, and for safety we should assume that the filter media is
+ineffective without an intact PP "tissue".
+
+<img width=50% src="https://user-images.githubusercontent.com/23268616/100191420-12435a80-2ebe-11eb-92f6-153ad247474e.png" />
+
+HEPA filters intended for actual use are typically pleated, i.e. folded like an
+accordion, to maximize the surface area of filter media in which contaminants
+can be trapped. In filters like the [Honeywell replacement filter](https://www.amazon.com/gp/product/B00BWYNZV4/)
+that I cut apart for Filter Media, each individual fold of the "accordion" is
+supported by strips of thick glue from the fold underneath.
+
+<img width=50% src="https://github.com/Yilin-Yang/covid-3d-printing-mi/blob/master/images/labeled_cartridge.jpg?raw=true" />
+
+If you need to remove the Filter Media from a Filter Tray, then _after_
+removing the Retaining Ring, you can use a thin object (like a screwdriver) to
+push the Filter Media out of the tray, pressing the object's tip into a glue
+strip, avoiding damage to the PP "tissue". You should also be careful to
+unstick the glue strips from the inner surface of the Filter Tray "lip", if
+applicable, so that the PP "tissue" does not rip as the Filter Media is removed
+from the Filter Tray.
+
+To protect the Filter Media from damage and preserve its effectiveness
+filtration:
+
+- **Do NOT** prod or scratch at the soft, felt-like "tissue" in the Filter Tray
+- **Do NOT** soak or splash the Filter Media with water or other liquids
+- **Do NOT** expose the Filter Media to soaps or disinfectants
+- **Do NOT** expose the Filter Media to oily, sticky, tarry, or resinous aerosols, such as
+  from blowing cigarette smoke through the Filter Media
+
 #### Avoiding Structural Damage to the Plastic Mask Body
 
 The Flexspirator is reasonably durable and will comfortably survive _ordinary_
@@ -327,23 +374,23 @@ or an integrity check.
 
 **1. Stretch the Top Strap over the crown of your head.**
 
-<img src="https://media.githubusercontent.com/media/Yilin-Yang/covid-3d-printing-mi/master/images/seal_check/1_top_strap.png" width=50% />
+<img width=50% src="https://media.githubusercontent.com/media/Yilin-Yang/covid-3d-printing-mi/master/images/seal_check/1_top_strap.png" />
 
 **2. Adjust the Top Strap, securing the upper half of the Flexspirator against your face and nose.**
 
-<img src="https://media.githubusercontent.com/media/Yilin-Yang/covid-3d-printing-mi/master/images/seal_check/2_top_strap_adjust.png" width=50% />
+<img width=50% src="https://media.githubusercontent.com/media/Yilin-Yang/covid-3d-printing-mi/master/images/seal_check/2_top_strap_adjust.png" />
 
 **3. Fasten the Hook Buckle and Loop Buckle behind your neck.**
 
-<img src="https://media.githubusercontent.com/media/Yilin-Yang/covid-3d-printing-mi/master/images/seal_check/3_bottom_strap_hook.png" width=50% />
+<img width=50% src="https://media.githubusercontent.com/media/Yilin-Yang/covid-3d-printing-mi/master/images/seal_check/3_bottom_strap_hook.png" />
 
 **4. Adjust the Lower Strap, securing the lower half of the Flexspirator against your cheeks and chin.**
 
-<img src="https://media.githubusercontent.com/media/Yilin-Yang/covid-3d-printing-mi/master/images/seal_check/4_bottom_strap_adjust.png" width=50% />
+<img width=50% src="https://media.githubusercontent.com/media/Yilin-Yang/covid-3d-printing-mi/master/images/seal_check/4_bottom_strap_adjust.png" />
 
 **5. Press your hand into the front of the Flexspirator and inhale/exhale.**
 
-<img src="https://media.githubusercontent.com/media/Yilin-Yang/covid-3d-printing-mi/master/images/seal_check/5_seal_check.png" width=50% />
+<img width=50% src="https://media.githubusercontent.com/media/Yilin-Yang/covid-3d-printing-mi/master/images/seal_check/5_seal_check.png" />
 
 #### Implications of Failing a Seal Check or Integrity Check
 
