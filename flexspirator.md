@@ -234,7 +234,7 @@ applicable, so that the PP "tissue" does not rip as the Filter Media is removed
 from the Filter Tray.
 
 To protect the Filter Media from damage and preserve its effectiveness
-filtration:
+at filtration:
 
 - **Do NOT** prod or scratch at the soft, felt-like "tissue" in the Filter Tray
 - **Do NOT** soak or splash the Filter Media with water or other liquids
@@ -372,13 +372,17 @@ the integrity check has failed.
 The following are illustrations of the basic process of conducting a seal check
 or an integrity check.
 
-**1. Stretch the Top Strap over the crown of your head.**
+**1. Pull the Top Strap over the crown of your head.**
 
 <img width=50% src="https://media.githubusercontent.com/media/Yilin-Yang/covid-3d-printing-mi/master/images/seal_check/1_top_strap.png" />
 
 **2. Adjust the Top Strap, securing the upper half of the Flexspirator against your face and nose.**
 
 <img width=50% src="https://media.githubusercontent.com/media/Yilin-Yang/covid-3d-printing-mi/master/images/seal_check/2_top_strap_adjust.png" />
+
+Use both hands to grab separate ends of the Top Strap. Pull outward, to lift
+the Slide Buckle away from the scalp, so that the Top Strap does not snag your
+hair during adjustment.
 
 **3. Fasten the Hook Buckle and Loop Buckle behind your neck.**
 
