@@ -46,6 +46,24 @@ certified, and probably cannot be issued to actual healthcare workers without
 violating OSHA regulations, but members of the general public can wear one
 _voluntarily,_ and they should be protected from COVID-19 by doing so.
 
+## Protection Offered
+
+**The Flexspirator _should_ offer protection comparable to a reusable N100
+respirator.**
+
+This is better than the protection offered by an N95 respirator
+and should be sufficient to protect the wearer from inhaling coronavirus
+particles while properly worn.
+
+It should also protect the wearer from inhaling any sort of fine particulates,
+including smoke, sawdust, metal swarf (from grinding tools), and tear gas.
+
+This is not the same _type_ of protection as offered by a respirator equipped
+with (e.g.) P100 + activated carbon filters. Oily aerosols may destroy the
+Flexspirator's HEPA filter, rendering it ineffective at filtration. The HEPA
+filter will also not absorb chemical fumes, such as from spraypaint or Flex
+Seal.
+
 ## Basic Construction
 
 The Flexspirator is a slightly modified [Maker Mask Rapid](https://www.makermask.com/rapid-360.html) (MMR)
@@ -126,7 +144,8 @@ of a conventional reusable elastomeric respirator.
 
 The **Mask Body** is the larger Flexspirator facepiece. It is comprised of
 a stiff mask frame of PETG plastic coated on both its interior and exterior
-with a silicone rubber coating of Flex Seal Liquid.
+with a silicone rubber coating of Flex Seal Liquid. Along with the Edge Lining,
+the Mask Body makes up the **Facepiece** (not labeled).
 
 The **Edge Lining** is the edge of the Flexspirator facepiece where it
 contacts your face. It is comprised of [vinyl weather stripping](https://www.homedepot.com/p/M-D-Building-Products-1-2-in-x-17-ft-White-Vinyl-Gasket-Weatherstrip-78394/100193598)
@@ -153,28 +172,69 @@ not help to filter air, but simply holds the Filter Tray snugly against the
 walls of the Filter Slot. We call a Filter Cover screwed onto a Filter Tray
 a **Filter Cartridge.**
 
-The **Locking Dimple** is a small divot in the front of the Mask Body. There is
-a small protrusion (not labeled) on the Filter Cover that seats into the
-Locking Dimple when the Filter Cover is screwed onto the Filter Tray, helping
-to lock the Filter Cover into place.
+The **Locking Dimple** is a small divot in the front of the Mask Body. The
+Filter Cover has a corresponding **Locking Bump** that seats into the Locking
+Dimple when the Filter Cover is screwed onto the Filter Tray, helping to lock
+the Filter Cover into place.
 
-### Protection Offered
+### Assembly and Disassembly, Replacing Filter Cartridges
 
-**The Flexspirator _should_ offer protection comparable to a reusable N100
-respirator.**
+This summarizes the process of loading a new Filter Tray into the Flexspirator.
+Removing an already installed Filter Tray is essentially the reverse of
+this process.
 
-This is better than the protection offered by an N95 respirator
-and should be sufficient to protect the wearer from inhaling coronavirus
-particles while properly worn.
+**1. With the Mask Body cupped in one hand, place a Sealant-coated Filter
+Tray into the Filter Slot.**
 
-It should also protect the wearer from inhaling any sort of fine particulates,
-including smoke, sawdust, metal swarf (from grinding tools), and tear gas.
+<img width=50% src="https://media.githubusercontent.com/media/Yilin-Yang/covid-3d-printing-mi/master/images/assembly/1_insert_tray.png" />
 
-This is not the same _type_ of protection as offered by a respirator equipped
-with (e.g.) P100 + activated carbon filters. Oily aerosols may destroy the
-Flexspirator's HEPA filter, rendering it ineffective at filtration. The HEPA
-filter will also not absorb chemical fumes, such as from spraypaint or Flex
-Seal.
+**2. Press the Filter Tray firmly into the Filter Slot.**
+
+<img width=50% src="https://media.githubusercontent.com/media/Yilin-Yang/covid-3d-printing-mi/master/images/assembly/2_depress_tray.png" />
+
+If you have just applied petroleum jelly Sealant to the lip of the Filter Tray,
+then you should see the excess jelly squeeze out from _all_ sides of the
+Cartridge/Slot Interface. If it does not, or if it squeezes out on some sides
+but not on others, then remove the Filter Tray and apply more petroleum jelly
+where needed.
+
+**3. The lip of the Filter Tray should visibly protrude from the front of the
+Mask Body.**
+
+<img width=50% src="https://media.githubusercontent.com/media/Yilin-Yang/covid-3d-printing-mi/master/images/assembly/3_lip_exposed.png" />
+
+During disassembly, you can pop the Filter Tray out of the Filter Slot without
+getting petroleum jelly on your hands by striking the exposed lip of the Filter
+Tray with the Filter Cover.
+
+**4. Place a Filter Cover over the lip of the Filter Tray as pictured so that
+the "nubs" of the Filter Cover point toward 11 o'clock and 5 o'clock
+positions.**
+
+<img width=50% src="https://media.githubusercontent.com/media/Yilin-Yang/covid-3d-printing-mi/master/images/assembly/4_place_filter_cover.png" />
+
+**5. Grip the nubs of the Filter Tray.**
+
+<img width=50% src="https://media.githubusercontent.com/media/Yilin-Yang/covid-3d-printing-mi/master/images/assembly/5_grip_cover.png" />
+
+**6. Twist the Filter Tray clockwise, as viewed from the front of the Mask
+Body, until the Locking Bump slides into the Locking Dimple.**
+
+<img width=50% src="https://media.githubusercontent.com/media/Yilin-Yang/covid-3d-printing-mi/master/images/assembly/6_twist_cover.png" />
+
+You may hear or feel the Locking Bump click into place. If the Locking Bump
+does not fit into the Locking Dimple because the Locking Dimple is packed with
+Flex Seal, then you may scrape out the excess Flex Seal with a small pick or
+knife.
+
+**Do NOT** twist the Filter Cover so that the Locking Bump moves _past_ the
+Locking Dimple. This may damage the lip of the Filter Tray.
+
+It is possible for the Locking Bump to break off of the Filter Cover. In this
+case, the Filter Cover can still be used, but may not hold the Filter Tray as
+solidly. Note that Filter Covers are fully interchangeable, so a Filter Cover
+from a replacement Filter Cartridge can replace a broken Filter Cover without
+issue.
 
 ### Maintenance
 
@@ -316,9 +376,31 @@ _generous_ quantities of petroleum jelly on the lip of a Filter Tray with
 a Q-tip. As you press the Filter Tray into the Filter Slot, petroleum jelly
 should squeeze out from the Cartridge/Slot Interface.
 
-TODO when to reapply
-
 <img width=50% src="https://media.githubusercontent.com/media/Yilin-Yang/covid-3d-printing-mi/master/images/assembly/2_depress_tray.png" />
+
+**You should reapply the petroleum jelly Sealant after:**
+
+- Switching Filter Cartridges, if the lip of the new Filter Tray has not
+  been coated with petroleum jelly.
+- Washing the Flexspirator, e.g. in a kitchen sink, with a sponge and
+  dish soap. Actions like this will wash away petroleum jelly.
+- Removing and reinserting the same Filter Tray more than a half-dozen times
+  without any reapplication of petroleum jelly.
+- Seeing that the petroleum jelly is visibly dirty.
+- Hearing a hissing sound from the Filter Cartridge when inhaling that does not
+  sound like regular air movement, OR, Feeling a thin jet of "cold air" on your
+  face inside the Mask Body that seems to come from the Cartridge/Slot Interface.
+
+To "refresh" the Interface Sealant in between reapplications of petroleum
+jelly, you can insert the Filter Tray into the Filter Slot and then "smear" the
+excess petroleum jelly around the back edges of the Filter Tray. This is
+usually sufficient to seal pinhole leaks when both the Filter Slot and Filter
+Tray have existing coatings of petroleum jelly.
+
+<img width=50% src="https://media.githubusercontent.com/media/Yilin-Yang/covid-3d-printing-mi/master/images/smooth_jelly.jpg" />
+
+Excess petroleum jelly that spills onto other parts of the Mask Body interior
+can be wiped away without issue.
 
 ### Seal and Integrity Check
 
@@ -344,21 +426,8 @@ out" against your hand when exhaling. If the Flexspirator does not "suck in" or
 INTERFACE HAS BEEN PROPERLY SEALED.⚠
 </summary>
 
-Performing a seal check can help you to detect _obvious_ problems with the seal
-of a Flexspirator. These might be large cracks and holes in the plastic mask
-frame and its Flex Seal coating that contaminated air can penetrate; or the
-Flexspirator may not [fit](https://www.osha.gov/video/respiratory_protection/fittesting_transcript.html)
-properly.
-
-But these flaws allow _large_ amounts of air to bypass the Filter
-Media, so that inhaling or exhaling does not cause the Flexspirator to "suck
-in" or "bulge out". A pinhole leak in the Cartridge/Slot Interface Sealant may
-not prevent the Flexspirator from "sucking in" or "bulging out" during a seal
-check.
-
-If the Flexspirator does not fit properly – meaning that, no matter how you
-adjust it, there are still air gaps between the Edge Lining and your face
-– then you may try to fill those gaps with Duct Seal as described below.
+Small leaks, like pinhole leaks in the Cartridge/Slot Interface Sealant, may
+not be noticeable during a seal check.
 </details>
 
 You can perform an **integrity check** by following the same procedure as
@@ -376,7 +445,8 @@ or an integrity check.
 
 <img width=50% src="https://media.githubusercontent.com/media/Yilin-Yang/covid-3d-printing-mi/master/images/seal_check/1_top_strap.png" />
 
-**2. Adjust the Top Strap, securing the upper half of the Flexspirator against your face and nose.**
+**2. Adjust the Top Strap, securing the upper half of the Flexspirator against
+your face and nose.**
 
 <img width=50% src="https://media.githubusercontent.com/media/Yilin-Yang/covid-3d-printing-mi/master/images/seal_check/2_top_strap_adjust.png" />
 
@@ -388,17 +458,52 @@ hair during adjustment.
 
 <img width=50% src="https://media.githubusercontent.com/media/Yilin-Yang/covid-3d-printing-mi/master/images/seal_check/3_bottom_strap_hook.png" />
 
-**4. Adjust the Lower Strap, securing the lower half of the Flexspirator against your cheeks and chin.**
+**4. Adjust the Lower Strap, securing the lower half of the Flexspirator
+against your cheeks and chin.**
 
 <img width=50% src="https://media.githubusercontent.com/media/Yilin-Yang/covid-3d-printing-mi/master/images/seal_check/4_bottom_strap_adjust.png" />
 
-**5. Press your hand into the front of the Flexspirator and inhale/exhale.**
+**5. Press your hand into the front of the Flexspirator and inhale or exhale,
+to see if the Mask Body "sucks in" or "bulges out", respectively.**
 
 <img width=50% src="https://media.githubusercontent.com/media/Yilin-Yang/covid-3d-printing-mi/master/images/seal_check/5_seal_check.png" />
 
-#### Implications of Failing a Seal Check or Integrity Check
+#### Implications of Failing a Seal Check
 
-TODO
+If a seal check fails, then the Flexspirator will not protect you as you are
+currently wearing it. **Do not wear the Flexspirator in a hazardous environment
+if you are not able to pass a seal check.**
+
+Performing a seal check helps you to detect _obvious_ problems with the seal
+of a Flexspirator. These might be large cracks and holes in the Facepiece that
+contaminated air can penetrate; or the Flexspirator may not
+[fit](https://www.osha.gov/video/respiratory_protection/fittesting_transcript.html)
+properly; or the Flexspirator may not be seated properly on your face.
+
+Large cracks and holes in the Flexspirator will need to be repaired. See the
+instructions below on repairing large cracks and holes.
+
+You may be able to fix the Flexspirator's seal by adjusting the Mask Body's
+position on your face, or loosening/tightening the Top Strap and Bottom Strap
+as needed.
+
+If the Flexspirator does not fit properly – meaning that, no matter how you
+adjust it, there are still air gaps between the Edge Lining and your face
+– then you may try to fill those gaps with Duct Seal as described below.
+
+#### Implications of Failing an Integrity Check
+
+**If an integrity check fails, then contaminated air will be able to penetrate
+the Flexspirator without passing through the Filter Media.** The Flexspirator
+may still provide better protection than a cloth face mask or surgical mask,
+but will no longer reliably provide N100 or even N95 protection unless it is
+repaired.
+
+An integrity check is similar to a seal check, but it only tests for leaks in
+the Facepiece. Because no Filter Cartridge is loaded when conducting an
+integrity check, this check is useful mainly for testing damaged Flexspirators
+to see if they can still be safely worn, or to see if attempted repairs were
+successful.
 
 ## Potential Modifications by the User
 
@@ -406,28 +511,8 @@ TODO duct seal
 
 ### Repairing Large Cracks and Holes
 
+TODO
+
 ### Fixing Poor Respirator Fit with Duct Seal
-
-TODO
-
-## Design Alterations
-
-TODO
-
-Other elements of the Maker Mask Rapid design have been modified to improve
-usability.
-
-### Filter Tray Retaining Ring
-
-TODO
-
-One major design flaw of the Maker Mask Rapid design is that it offers no means
-of compressing filter media flush against the filter tray.
-
-### Petroleum Jelly Sealant
-
-TODO
-
-### Hook-and-Loop Lower Strap Buckle
 
 TODO
