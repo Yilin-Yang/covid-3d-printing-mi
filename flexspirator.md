@@ -1,5 +1,7 @@
 # Flexspirator – Usage and Care
 
+*Past versions of this page are visible in its [History](https://github.com/Yilin-Yang/covid-3d-printing-mi/commits/master/flexspirator.md).*
+
 <img src="https://media.githubusercontent.com/media/Yilin-Yang/covid-3d-printing-mi/master/images/flexspirator_no_callouts.png" width=50% />
 
 The "Flexspirator" is a Maker-made reusable respirator that _should_ provide
@@ -66,7 +68,7 @@ Seal.
 
 ## Basic Construction
 
-The Flexspirator is a slightly modified [Maker Mask Rapid](https://www.makermask.com/rapid-360.html) (MMR)
+The Flexspirator is a slightly modified [Maker Mask Rapid](https://www.makermask.com/rapid-360.html)
 printed from [clear PETG](https://www.amazon.com/OVERTURE-Filament-Transparent-Multipack-Dimensional/dp/B08344S1TT)
 reinforced with a strong, flexible, rubberized coating of [Swift Response's Flex Seal
 Liquid](https://www.youtube.com/watch?v=_NygbA9UYPw), the easy way to coat,
@@ -74,9 +76,9 @@ seal, and stop leaks fast. It's the super thick rubber that you can pour right
 into cracks to stop COVID dead in its tracks.
 
 Flex Seal starts out as a thick liquid and turns into a super strong flexible
-rubber. Dipping 3D printed MMRs creates an airtight seal that lasts for years.
-This rubberized coating blocks ingress of contaminated air through [cracks and
-holes in the plastic mask frame](https://www.preprints.org/manuscript/202006.0080/v1)
+rubber. Dipping 3D printed Maker Mask Rapids creates an airtight seal that
+lasts for years.  This rubberized coating blocks ingress of contaminated air through
+[cracks and holes in the plastic mask frame](https://www.preprints.org/manuscript/202006.0080/v1)
 produced as artifacts of the [FDM printing](https://en.wikipedia.org/wiki/Fused_filament_fabrication)
 process.
 
@@ -85,7 +87,7 @@ In extreme heat or cold, Flex Seal Liquid keeps its hold.
 <details>
 <summary>
 ⚠DO NOT EXPOSE A FLEXSPIRATOR TO PROLONGED TEMPERATURES OF GREATER THAN 65
-DEGREES CELSIUS (149 DEGREES FAHRENHEIT).⚠
+DEGREES CELSIUS (149 DEGREES FAHRENHEIT); THIS MAY DEFORM THE PLASTIC.⚠
 </summary>
 
 A rough lower bound for the [glass transition temperature](https://en.wikipedia.org/wiki/Glass_transition)
@@ -116,7 +118,8 @@ condense on the Flexspirator's inner surface.
 
 <details>
 <summary>
-⚠LIMIT OR AVOID STRENUOUS PHYSICAL ACTIVITY WHILE WEARING A FLEXSPIRATOR.⚠
+⚠LIMIT OR AVOID STRENUOUS PHYSICAL ACTIVITY WHILE WEARING A FLEXSPIRATOR
+TO AVOID SOAKING THE FILTER WITH MOISTURE FROM YOUR BREATH.⚠
 </summary>
 
 Physical activity such as intense aerobic exercise requires heavy breathing.
@@ -148,10 +151,27 @@ with a silicone rubber coating of Flex Seal Liquid. Along with the Edge Lining,
 the Mask Body makes up the **Facepiece** (not labeled).
 
 The **Edge Lining** is the edge of the Flexspirator facepiece where it
-contacts your face. It is comprised of [vinyl weather stripping](https://www.homedepot.com/p/M-D-Building-Products-1-2-in-x-17-ft-White-Vinyl-Gasket-Weatherstrip-78394/100193598)
+contacts your face. It is comprised of [rubber keft-mount weather stripping](https://www.amazon.com/gp/product/B06Y1SND8X)
 coated with Flex Seal Liquid; the weather stripping is soft and can conform to
-the wearer's face, while the silicone rubber Flex Seal coating _significantly_
-improves its seal against bare skin.
+the wearer's face, while the silicone rubber Flex Seal coating improves its
+seal against bare skin.
+
+<details>
+<summary>
+Earlier Flexspirators used vinyl weather stripping, as specified by the Maker
+Mask Rapid's original design.
+</summary>
+
+The [vinyl weather stripping](https://www.homedepot.com/p/M-D-Building-Products-1-2-in-x-17-ft-White-Vinyl-Gasket-Weatherstrip-78394/100193598)
+was very stiff, making it necessary to cinch the Top Strap and Bottom Strap
+uncomfortably tight in order to compress the Edge Lining against the wearer's
+face firmly enough to seal.
+
+The new rubber weather stripping is softer and more flexible, and unlike the
+vinyl weather stripping, can reliably seal against a person's face even without
+a silicone rubber coating of Flex Seal Liquid. Its use also makes the
+Flexspirator much more comfortable to wear.
+</details>
 
 The **Filter Slot** is the hole into which the Filter Tray is placed. The space
 between the Filter Tray and the Filter Slot (not labeled) is the
@@ -397,7 +417,7 @@ excess petroleum jelly around the back edges of the Filter Tray. This is
 usually sufficient to seal pinhole leaks when both the Filter Slot and Filter
 Tray have existing coatings of petroleum jelly.
 
-<img width=50% src="https://media.githubusercontent.com/media/Yilin-Yang/covid-3d-printing-mi/master/images/smooth_jelly.jpg" />
+<img width=50% src="https://raw.githubusercontent.com/Yilin-Yang/covid-3d-printing-mi/master/images/smooth_jelly.jpg" />
 
 Excess petroleum jelly that spills onto other parts of the Mask Body interior
 can be wiped away without issue.
@@ -422,8 +442,8 @@ out" against your hand when exhaling. If the Flexspirator does not "suck in" or
 
 <details>
 <summary>
-⚠A SUCCESSFUL SEAL CHECK DOES NOT NECESSARILY MEAN THAT THE CARTRIDGE/SLOT
-INTERFACE HAS BEEN PROPERLY SEALED.⚠
+⚠A SUCCESSFUL SEAL CHECK DETECTS OBVIOUS PROBLEMS, BUT DOES NOT NECESSARILY
+MEAN THAT THE CARTRIDGE/SLOT INTERFACE HAS BEEN PROPERLY SEALED.⚠
 </summary>
 
 Small leaks, like pinhole leaks in the Cartridge/Slot Interface Sealant, may
@@ -435,7 +455,7 @@ a seal check, except that you should don the Flexspirator with the Filter
 Cartridge _removed,_ i.e. with the Filter Slot completely empty. This should
 allow you to fully plug the front of the Flexspirator with your hand, making it
 entirely airtight. If you try to inhale or exhale, you should feel _no_ air
-movement _whatsoever_ through the Flexspirator. If you feel air movement, than
+movement _whatsoever_ through the Flexspirator. If you feel air movement, then
 the integrity check has failed.
 
 The following are illustrations of the basic process of conducting a seal check
@@ -480,8 +500,14 @@ contaminated air can penetrate; or the Flexspirator may not
 [fit](https://www.osha.gov/video/respiratory_protection/fittesting_transcript.html)
 properly; or the Flexspirator may not be seated properly on your face.
 
-Large cracks and holes in the Flexspirator will need to be repaired. See the
-instructions below on repairing large cracks and holes.
+Large cracks and holes in the Flexspirator will need to be repaired. This is
+probably most easily done by painting the broken area with a new coating of
+Flex Seal Liquid and allowing it to cure in a well-ventilated space for 24-48 hours.
+[32 oz. cans of Flex Seal Liquid](https://www.homedepot.com/p/FLEX-SEAL-FAMILY-OF-PRODUCTS-Flex-Seal-Liquid-White-32-oz-Liquid-Rubber-Sealant-Coating-LFSWHTR32/301711550)
+are typically available at Home Depot for $30; this is enough to repair
+dozens or hundreds of broken Flexspirators, so if Flexspirators are being
+worn by your colleagues or neighbors, then you can pool your money to buy
+a single can for your collective use.
 
 You may be able to fix the Flexspirator's seal by adjusting the Mask Body's
 position on your face, or loosening/tightening the Top Strap and Bottom Strap
@@ -489,7 +515,9 @@ as needed.
 
 If the Flexspirator does not fit properly – meaning that, no matter how you
 adjust it, there are still air gaps between the Edge Lining and your face
-– then you may try to fill those gaps with Duct Seal as described below.
+– then you may try to fill those gaps with [**Duct Seal**](https://www.homedepot.com/p/Gardner-Bender-1-lb-Plug-Duct-Seal-Compound-DS-110/100212441),
+a cheap dough-like material akin to [Blu Tack](https://en.wikipedia.org/wiki/Blu_Tack)
+used to fill "gaps and holes" in ductwork.
 
 #### Implications of Failing an Integrity Check
 
@@ -504,15 +532,3 @@ the Facepiece. Because no Filter Cartridge is loaded when conducting an
 integrity check, this check is useful mainly for testing damaged Flexspirators
 to see if they can still be safely worn, or to see if attempted repairs were
 successful.
-
-## Potential Modifications by the User
-
-TODO duct seal
-
-### Repairing Large Cracks and Holes
-
-TODO
-
-### Fixing Poor Respirator Fit with Duct Seal
-
-TODO
