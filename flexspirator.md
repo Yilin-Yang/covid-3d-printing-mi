@@ -2,7 +2,7 @@
 
 *Past versions of this page are visible in its [History](https://github.com/Yilin-Yang/covid-3d-printing-mi/commits/master/flexspirator.md).*
 
-<img src="https://media.githubusercontent.com/media/Yilin-Yang/covid-3d-printing-mi/master/images/flexspirator_no_callouts.png" width=50% />
+<img src="https://media.githubusercontent.com/media/Yilin-Yang/covid-3d-printing-mi/master/images/flexspirator_no_callouts.png" />
 
 The "Flexspirator" is a Maker-made reusable respirator that _should_ provide
 N100 protection, **though it has not been formally tested and certified by
@@ -100,7 +100,7 @@ cause the plastic to warp and deform.
 Unlike thin paints, Flex Seal Liquid is **𝕤𝕦𝕡𝕖𝕣 𝕥𝕙𝕚𝕔𝕜** and creates a flexible
 barrier that's _completely_ airtight. It's like a handyman, in a can!
 
-Flex Seal Liquid is safe aroud plants and animals, so we used it to seal these
+Flex Seal Liquid is safe around plants and animals, so we used it to seal these
 Flexspirators.
 
 **Now with any COVID outbreak, big or small – Flex Seal shuts out aerosols!**
@@ -151,7 +151,7 @@ with a silicone rubber coating of Flex Seal Liquid. Along with the Edge Lining,
 the Mask Body makes up the **Facepiece** (not labeled).
 
 The **Edge Lining** is the edge of the Flexspirator facepiece where it
-contacts your face. It is comprised of [rubber keft-mount weather stripping](https://www.amazon.com/gp/product/B06Y1SND8X)
+contacts your face. It is comprised of [rubber kerf-mount weather stripping](https://www.amazon.com/gp/product/B06Y1SND8X)
 coated with Flex Seal Liquid; the weather stripping is soft and can conform to
 the wearer's face, while the silicone rubber Flex Seal coating improves its
 seal against bare skin.
